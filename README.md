@@ -83,3 +83,4 @@ You can find contributing guide [here](./CONTRIBUTING.md).
 
 ### Building & deploying locally
 Learn how to build & deploy KEDA locally [here](./BUILD.md).
+test
